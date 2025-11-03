@@ -10,4 +10,4 @@ Developed a C++-based embedded system that controls doors, windows, lighting, an
 • Optimized sensor response time and real-time automation logic using Arduino programming.
 
 Simulation Link:
-https://www.tinkercad.com/things/k4qxHKLRWCC-home-automation-system?sharecode=X4eKC-WDzL42bg3rbdWXZrASYnWTkEBNjNSkd560n5A
+[https://www.tinkercad.com/things/k4qxHKLRWCC-home-automation-system?sharecode=X4eKC-WDzL42bg3rbdWXZrASYnWTkEBNjNSkd560n5A](https://www.tinkercad.com/things/g0mtQoG6OKy-home-automation-system-updated?sharecode=ePGDjXo8oPp95fC_lgZ2BUZuGCIKe4VARz7eSEFrl_I)
