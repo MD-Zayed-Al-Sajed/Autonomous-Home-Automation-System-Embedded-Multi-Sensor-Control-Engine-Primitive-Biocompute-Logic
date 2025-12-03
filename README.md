@@ -27,18 +27,11 @@ No frameworks, no IoT libraries.
 
 Decision Core (Primitive “Biocompute Logic”) Conditions + feedback + state tracking: Acts like a simplified biological regulatory system.
 
-Output Layer
-Motors, relays, and actuators controlling:
-
-lights
-fans
-doors
-appliances
-environmental systems
+Output Layer: Motors, relays, and actuators controlling: lights, fans, doors, appliances, environmental systems.
 
 Architecture Style: Distributed, event-driven, feedback-regulated control system.
 
-TECHNICAL DEEP DIVE
+TECHNICAL DEEP DIVE.
 
 Programming:
 Embedded C++ (no abstractions)
@@ -66,25 +59,19 @@ Self-looping feedback (cybernetic regulation)
 Simulation Link:
 [https://www.tinkercad.com/things/k4qxHKLRWCC-home-automation-system?sharecode=X4eKC-WDzL42bg3rbdWXZrASYnWTkEBNjNSkd560n5A](https://www.tinkercad.com/things/g0mtQoG6OKy-home-automation-system-updated?sharecode=ePGDjXo8oPp95fC_lgZ2BUZuGCIKe4VARz7eSEFrl_I)
 
-WHAT MAKES IT UNIQUE
+WHAT MAKES IT UNIQUE?
 This is NOT a typical home automation system because it is a small cyber-physical system designed like a primitive organism.
-
-It reacts
-It adapts
-It self-regulates
-It uses feedback loops
-It requires no cloud
-It is fully autonomous
+It reacts, adapts, self-regulates, uses feedback loops, requires no cloud, It is fully autonomous.
 
 IMPACT
 
 This project demonstrates align directly with:
-robotics
-autonomous vehicles
-cyber-physical systems
-IoT edge computing
-low-level systems engineering
-control systems
-applied AI
-game AI / behavior systems
+robotics,
+autonomous vehicles,
+cyber-physical systems,
+IoT edge computing,
+low-level systems engineering,
+control systems,
+applied AI,
+game AI / behavior systems.
 
