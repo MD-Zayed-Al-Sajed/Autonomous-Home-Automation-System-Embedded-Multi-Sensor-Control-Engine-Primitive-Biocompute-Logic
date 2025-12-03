@@ -3,42 +3,29 @@
 
 SUMMARY
 
-A self-regulating, embedded automation engine built from scratch using raw C++, integrating multiple sensors and actuators to create a fully autonomous decision-making environment inside a home. The system dynamically responds to real-time signals, maintains internal state, and performs coordinated actions without cloud dependency or pre-built frameworks.
-
-This system behavior is highly unusual, it resembles early robotics/cybernetic feedback systems.
+A self-regulating, embedded automation engine built from scratch using raw C++, integrating multiple sensors and actuators to create a fully autonomous decision-making environment inside a home. The system dynamically responds to real-time signals, maintains internal state, and performs coordinated actions without cloud dependency or pre-built frameworks. This system behavior is highly unusual, it resembles early robotics/cybernetic feedback systems.
 
 ![Home Automation System](https://github.com/user-attachments/assets/4816fa3c-aae2-42ab-97c9-a78c9f02eddd)
 
 PROBLEM STATEMENT
 
 Modern smart-home devices rely heavily on:
-cloud services
-vendor ecosystems
-pre-built rule engines
-mobile app triggers
-
-These systems are fragile and fail when:
-internet is down
-cloud latency increases
-vendor APIs change
-users expect real-time safety-critical control
-
+cloud services, vendor ecosystems, pre-built rule engines, mobile app triggers.
+These systems are fragile and fail when: internet is down, cloud latency increases, vendor APIs change, users expect real-time, safety-critical control
 There is a clear gap for local, autonomous automation systems that run without cloud dependence. This project explores precisely that.
 
 SYSTEM ARCHITECTURE
 
 Core Components:
 
-Input Layer
-Multi-sensor array (temperature, light, motion, humidity, etc.)
+Input Layer: 
+Multi-sensor array (temperature, light, motion, humidity, etc.).
 
-Signal Processing Layer
+Signal Processing Layer: 
 Raw C++ logic with custom rule-based decision engine
 No frameworks, no IoT libraries.
 
-Decision Core (Primitive “Biocompute Logic”)
-Conditions + feedback + state tracking:
-Acts like a simplified biological regulatory system.
+Decision Core (Primitive “Biocompute Logic”) Conditions + feedback + state tracking: Acts like a simplified biological regulatory system.
 
 Output Layer
 Motors, relays, and actuators controlling:
