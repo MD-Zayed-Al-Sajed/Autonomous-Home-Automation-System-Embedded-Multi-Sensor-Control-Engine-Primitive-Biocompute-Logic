@@ -5,6 +5,8 @@ SUMMARY
 
 A self-regulating, embedded automation engine built from scratch using raw C++, integrating multiple sensors and actuators to create a fully autonomous decision-making environment inside a home. The system dynamically responds to real-time signals, maintains internal state, and performs coordinated actions without cloud dependency or pre-built frameworks. This system behavior is highly unusual, it resembles early robotics/cybernetic feedback systems.
 
+WHAT MAKES IT UNIQUE? This is NOT a typical home automation system because it is a small cyber-physical system designed like a primitive organism. It reacts, adapts, self-regulates, uses feedback loops, requires no cloud, It is fully autonomous.
+
 ![Home Automation System](https://github.com/user-attachments/assets/4816fa3c-aae2-42ab-97c9-a78c9f02eddd)
 
 PROBLEM STATEMENT
@@ -58,12 +60,6 @@ Self-looping feedback (cybernetic regulation)
 
 Simulation Link:
 [https://www.tinkercad.com/things/k4qxHKLRWCC-home-automation-system?sharecode=X4eKC-WDzL42bg3rbdWXZrASYnWTkEBNjNSkd560n5A](https://www.tinkercad.com/things/g0mtQoG6OKy-home-automation-system-updated?sharecode=ePGDjXo8oPp95fC_lgZ2BUZuGCIKe4VARz7eSEFrl_I)
-
-WHAT MAKES IT UNIQUE?
-This is NOT a typical home automation system because it is a small cyber-physical system designed like a primitive organism.
-It reacts, adapts, self-regulates, uses feedback loops, requires no cloud, It is fully autonomous.
-
-IMPACT
 
 This project demonstrates align directly with:
 robotics,
