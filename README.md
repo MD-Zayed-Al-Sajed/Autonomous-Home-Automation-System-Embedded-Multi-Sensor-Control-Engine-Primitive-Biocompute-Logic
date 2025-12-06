@@ -3,7 +3,7 @@
 
 SUMMARY
 
-A self-regulating, embedded automation engine built from scratch using raw C++, integrating multiple sensors and actuators to create a fully autonomous decision-making environment inside a home. The system dynamically responds to real-time signals, maintains internal state, and performs coordinated actions without cloud dependency or pre-built frameworks. This system behavior is highly unusual, it resembles early robotics/cybernetic feedback systems.
+A self-regulating, embedded automation engine built from scratch using raw C++, integrating multiple sensors and actuators to create a fully autonomous decision-making environment inside a home. The system dynamically responds to real-time signals, maintains internal state, and performs coordinated actions without cloud dependency or pre-built frameworks. It resembles early robotics/cybernetic feedback systems.
 
 WHAT MAKES IT UNIQUE? This is NOT a typical home automation system because it is a small cyber-physical system designed like a primitive organism. It reacts, adapts, self-regulates, uses feedback loops, requires no cloud, It is fully autonomous.
 
