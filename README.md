@@ -70,5 +70,5 @@ IoT edge computing,
 low-level systems engineering,
 control systems,
 applied AI,
-game AI / behavior systems or Nuclear reactor cooling systems.
+game AI / behavior systems or (Mathematically) Nuclear reactor cooling systems.
 
